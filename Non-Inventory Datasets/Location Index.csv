@@ -1,0 +1,33 @@
+﻿City,Province,Ecozone, Population ,City Size,Downtown Core
+Ajax,Ontario,Mixedwood Plain,126666,Small,No
+Burlington,Ontario,Mixedwood Plain,186948,Medium,Yes
+Calgary,Alberta,Prairie,1306784,Large,Yes
+Edmonton,Alberta,Prairie,1010899,Large,Yes
+Fredericton,New Brunswick,Atlantic Maritime,63116,Small,Yes
+Guelph,Ontario,Mixedwood Plain,143740,Small,Yes
+Halifax,Nova Scotia,Atlantic Maritime,439819,Medium,Yes
+Kelowna,British Columbia,Montane Cordillera,144576,Small,Yes
+Kingston,Ontario,Mixedwood Plain,132485,Small,Yes
+Kitchener,Ontario,Mixedwood Plain,256885,Medium,Yes
+Lethbridge,Alberta,Prairie,98406,Small,Yes
+Longueuil,Quebec,Mixedwood Plain,254483,Medium,Yes
+Maple Ridge,British Columbia,Pacific Maritime,90990,Small,No
+Mississauga,Ontario,Mixedwood Plain,717961,Large,Yes
+Moncton,New Brunswick,Atlantic Maritime,79470,Small,Yes
+Montreal,Quebec,Mixedwood Plain,1762949,Large,No
+New Westminster,British Columbia,Pacific Maritime,78916,Small,No
+Niagara Falls,Ontario,Mixedwood Plain,94415,Small,No
+Ottawa,Ontario,Mixedwood Plain,1017449,Large,Yes
+Peterborough,Ontario,Mixedwood Plain,83651,Small,Yes
+Quebec City,Quebec,Mixedwood Plain,549459,Large,No
+Regina,Saskatchewan,Prairie,226404,Medium,Yes
+St. Catharines,Ontario,Mixedwood Plain,136803,Small,No
+Strathcona County,Alberta,Prairie,99225,Small,No
+Toronto,Ontario,Mixedwood Plain,2794356,Large,Yes
+Vancouver,British Columbia,Pacific Maritime,662248,Large,Yes
+Victoria,British Columbia,Pacific Maritime,91867,Small,Yes
+Waterloo,Ontario,Mixedwood Plain,121436,Small,Yes
+Welland,Ontario,Mixedwood Plain,55750,Small,No
+Whitby,Ontario,Mixedwood Plain,138501,Small,No
+Windsor,Ontario,Mixedwood Plain,229660,Medium,Yes
+Winnipeg,Manitoba,Prairie,749607,Large,Yes
