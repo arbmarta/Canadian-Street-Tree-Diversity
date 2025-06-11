@@ -1,0 +1,339 @@
+AB,Abies
+ABBA,Abies balsamea
+ABCO,Abies concolor
+ABGR,Abies grandis
+AC,Acer
+ACBU,Acer buergerianum
+ACCA,Acer Campestre
+ACFR,Acer Freemanii
+ACGI,Acer ginnala
+ACGLAB,Acer glabrum
+ACGR,Acer griseum
+ACGRAN,Acer grandidentatum
+ACJA,Acer japonicum
+ACMAC,Acer Macrophyllum
+acmi,Acer spp.
+ACNE,Acer Negundo
+ACNIG,Acer saccharum var. nigrum
+ACPA,Acer palmatum
+ACPA_B,Acer palmatum 'Bloodgood'
+ACPE,Acer pensylvanicum
+ACPL,Acer Platanoides
+ACPLCO,Acer Platanoides 'columnare'
+ACPLCR,Acer Platanoides 'Crimson kin
+ACPLSC,Acer Platanoides 'schwedleri'
+ACPS,Acer pseudoplatanus
+ACPS_A,Acer pseudoplatanus var. Aureo variegatum
+acre,Acer spp.
+ACRU,Acer Rubrum
+ACRUAR,Acer Rubrum 'armstrong'
+acrumo,Acer rubrum
+ACSA1,Acer saccharinum
+ACSA2,Acer saccharum
+ACSA2G,Acer saccharum 'green mountai
+ACSPI,Acer spicatum
+AECA,Aesculus x carnea
+AEGL,Aesculus glabra
+AEHI,Aesculus Hippocastanum
+AIAL,Ailanthus altissima
+AIKO,Abies koreana
+ALRUB,Alnus Rubra
+AM,Amelanchier
+AMAR,Amelanchier arborea
+AMCA,Amelanchier canadensis
+AMUT,Amelanchier x Grandiflora 'Autumn'
+AREL,Aralia elata
+AREX,Araucaria excelsa
+ARSP,Aralia spinosa
+astr,Unknown
+BE,Betula
+BEAL,Betula alleghaniensis
+BELE,Betula lenta
+BENI,Betula nigra
+BEPA,Betula papyrifera
+BEPE,Betula pendula
+BEPEGR,Betula pendula gracilis
+BEPO,Betula populifolia
+beth,Berberis thunbergii
+BEUT_J,Betula utilis 'Jacquemontii'
+BLAOAK,Quercus velutina
+BOAK,Quercus bicolor
+BUROAK,Quercus macrocarpa
+CA1,Carya
+caar,Carya spp.
+CABE,Carpinus betulus
+CABIG,Catalpa bignonioides
+CACA,Carpinus caroliniana
+CACO,Carya cordiformis
+CADE,Castanea dentata
+CAEQ,Casuarina equisetifolia
+caja,Castanea crenata
+CAOV,Carya ovata
+CAOVA,Catalpa ovata
+CAPAL,Carya pallida
+CARAQU,Carya aquatica
+CARCAR,Carpinus caroliniana
+cariii,Carya illinoinensis
+CARIll,Carya illinoinensis
+CARLAE,crataegus laevigata
+CASP,Catalpa speciosa
+CATEX,Carya texana
+CATO,Carya tomentosa
+CEAT_G,Cedrus atlantica 'Glauca'
+CEATGP,Cedrus atlantica 'Glauca Pendula'
+CECA,Cercis canadensis
+CEDE,Cedrus deodara
+CEJA,Cercidiphyllum japonicum
+CELI,Cedrus libani
+CELI_P,Cedrus libani 'Pendula'
+CELORB,Celastrus orbiculatus
+CEOC,Celtis occidentalis
+CHNO_P,Chamaecyparis nootkatensis 'Pendula'
+CHOB_T,Chamaecyparis obtusa 'Tetragona'
+CHPI,Chamaecyparis pisifera
+CHPI_A,Chamaecyparis pisifera var. Aurea
+CHPI_F,Chamaecyparis pisifera 'Filifera'
+CHPI_P,Chamaecyparis pisifera 'Plumosa'
+CHTH,Chamaecyparis thyoides
+CHVI,Chionanthus virginicus
+CLAKEN,Cladrastis kentukea
+CO1,Cornus
+COAL,Cornus Alternifolia
+COCO1,Cotinus coggygria
+COCO2,Corylus colurna
+Code,Botanical Name
+COFL,Cornus florida
+COKO,Cornus kousa
+COMA2,Corylus maxima var. Purpurea
+CORCOR,Corylus Cornuta
+CORHET,Corylus heterophylla 
+CORSER,Cornus sericea
+CR,Crataegus
+crla,crataegus laevigata
+CRMO_T,Crataegus mordensis 'Toba'
+CRMO2,Crataegus mollis 'scheele'
+CROX,Crataegus monogyna
+CRPH,Crataegus phaenopyrum
+crvi,Crataegus viridis
+CUNO,Cupressus nootkatensis
+CYDOB,Cydonia oblonga
+dafr,Unknown
+DAIN,Davidia involucrata
+DIOVI,Diospyros virginiana
+DIVIR,Diospyros virginiana
+doal,Unknown
+ELAN,Elaeagnus angustifolia
+elco,Elaeagnus commutata
+elscoo,Eleagnus spp.
+ERJAP,Eriobotrya japonica
+EUALA,Euonymus alatus
+EUJAP,Euonymus japonicus
+FA,Fagus
+FAGR,Fagus grandifolia
+FASY,Fagus sylvatica
+FASYP,Fagus sylvatica 'Purpurea'
+FASYPE,Fagus sylvatica 'Pendula'
+FASYPP,Fagus sylvatica 'Purpurea Pendula'
+FMAPLE,Acer x freemanii
+fo,Unknown
+FR,Fraxinus
+fral,Fraxinus latifolia
+FRALAT,Fraxinus latifolia
+FRAM,Fraxinus americana
+FRAUH,Fraxinus uhdei
+FREX,Fraxinus excelsior
+FREX_P,Fraxinus excelsior 'Pendula'
+FRNI,Fraxinus nigra
+FRPE,Fraxinus pennsylvanica
+FRPES,Fraxinus pennsylvanica 'summi
+frqu,Fraxinus quadrangulata
+GIBI,Ginkgo biloba
+gibim,Ginkgo biloba
+GLTR,Gleditisia triacanthos
+GYDI,Gymnocladus dioicus
+haca,Unknown
+HAVI,Hamamelis virginiana
+hemi,Unknown
+HISY,Hibiscus syriacus
+hop,Unknown
+hy,Hydrangea spp.
+HYPA_G,Hydrangea paniculata 'Grandiflora'
+ILOP,Ilex opaca
+ILSP,Ilex
+JUCI,Juglans cinerea
+JUNI,Juglans nigra
+JURE,Juglans regia
+JUVI,Juniperus virginiana
+KOPA,Koelreuteria paniculata
+LADE,Larix decidua
+LALA,Larix laricina
+LAWA_V,Laburnum x watereri 'Vossii'
+LISP,Ligustrum
+LIST,Liquidambar styraciflua
+LITU,Liriodendron tulipifera
+lo,Lonicera spp.
+MA1,Magnolia
+MA2,Malus
+MAAC,Magnolia acuminata
+MAAM9,Maackia amurensis
+MABRO,Magnolia × brooklynensis
+MADE_E,Magnolia denudata 'Elizabeth'
+MAHOPA,Malus 'Hopa'
+MALBAC,Malus baccata
+MALHUP,Malus hupehensis
+malo,Malus spp.
+MALOE,Magnolia x loebneri Leonard Messel
+MAMAK,Malus 'Makamik'
+mamo,Malus spp.
+MAPR,Malus 'Profusion'
+MASI,Magnolia stellata
+MASO,Magnolia soulangiana
+MASO_G,Magnolia soulangiana 'Galaxy'
+MAST,Magnolia stellata
+MATH,Malus 'Thunderchild'
+MATR,Magnolia tripetala
+MEGL,Metasequoia glyptostroboides
+MEGL_G,Metasequoia glyptostroboides 'Goldrush'
+MOAL,Morus alba
+MOAL_P,Morus alba 'Pendula'
+NYSY,Nyssa sylvatica
+orme,Unknown
+OSVI,Ostrya virginiana
+PAGUTT,Palaquium gutta
+PHAM,Phellodendron amurense
+PHILEW,Philadelphus lewisii
+PHYOP,Physocarpus opulifolius
+PI1,Picea
+PI2,Pinus
+PIAB,Picea abies
+PIBA,Pinus banksiana
+PICE2,Pinus cembra
+PIGL1,Picea glauca
+pigl1a,Picea glauca
+PIHE,Pinus heldreichii
+PIMA,Picea marina
+PIMUGO,Pinus mugo
+PINI,Pinus nigra
+PINRES,Pinus resinosa
+PINRIG,Pinus rigida
+PIPU,Picea pungens
+PIPU_P,Picea pungens 'Pendula'
+PIPUGL,Picea pungens 'glauca'
+PIRU,Picea rubens
+PIST,Pinus strobus
+PIST_P,Pinus strobus 'Pendula'
+PISY,Pinus sylvestris
+PLAC,Platanus hybrida
+PLOC,Platanus occidentalis
+PO,Populus
+POAL,Populus alba
+POBA,Populus balsamifera
+PODE,Populus deltoides
+POGR,Populus grandidentata
+PONI,Populus nigra
+PONIIT,Populus nigra 'italica'
+POTR1,Populus tremuloides
+PR,Prunus
+PRAM,Prunus americana
+PRCER,Prunus cerasus
+PRCI,Prunus x cistena
+PRMA,Prunus maackii
+PRPE1,Prunus pensylvanica
+PRPE2,Prunus persica
+PRPP,Prunus 'Pink Perfection'
+PRSA,Prunus sargentii
+PRSE1,Prunus serotina
+PRSE2,Prunus serrulata
+PRTR,Prunus triloba
+PRVI,Prunus virginiana
+PRVISH,"Prunus virginianna ""Shubert"""
+PSME,Pseudotsuga menziesii
+puma,Unknown
+PYCA,Pyrus calleryana
+PYCAAR,Pyruc calleryana 'Aristocrat'
+PYCACH,Pyrus calleryana 'Chanticleer'
+PYCO,Pyrus communis
+pyre,Pyrus regelii
+PYUS,Pyrus ussuriensis 'Prarie Gem'
+QU,Quercus
+QUAL,Quercus alba
+qubi,Quercus bicolor
+quco,Quercus coccinea
+QUCOC,Quercus coccinea
+QUEBI,Quercus bicolor
+QUEL,Quercus ellipsoidalis
+QUFAST,Quercus robur 'Fastigiata'
+QUIM,Quercus imbricaria
+QULY,Quercus lyrata
+QUMA1,Quercus macrocarpa
+quma2,Quercus macrocarpa
+qumu,Quercus muehlenbergii
+QUPA,Quercus palustris
+QUPAL,Quercus palustris Pringreen
+quph,Quercus phellos
+QURO,Quercus robur
+QURO_C,Quercus robur var. Concordia
+QURU,Quercus rubra
+QUSHU,Quercus shumardii
+QUSTEL,Quercus stellata
+QUVEL,Quercus velutina
+rh,Rhus spp.
+RHGL,Rhus glabra
+RHLA,Rhus lanceolata
+RHTY,Rhus hirta
+ROHIS,Robinia hispida
+ROPS,Robinia pseudoacacia
+ROPSE,Robinia pseudoacacia
+SA,Salix spp.
+saal,Salix alba
+SAALT,Salix alba 'Tristis'
+SABA,Salix x sepulcralis Simonkai
+SAMA,Salix matsudana
+SAMRAC,Sambucus racemosa
+SANI,Salix nigra
+SCVE,Sciadopitys verticillata
+so,Sorbus spp.
+SOAM,Sorbus americana
+SOAU,Sorbus aucuparia
+SOTH,Sorbus thuringiaca 'Fastigiata'
+SYRE,Syringa reticulata
+SYVU,Syringa vulgaris
+TA,Taxus
+TADI,Taxodium distichum
+tajap,Taxus cuspidata
+THOC,Thuja occdentalis
+THOC_S,Thuja occidentalis 'Smaragd'
+TI,Tilia
+TIAM,Tilia americana
+TICO,Tilia cordata
+TICOGR,Tilia cordata 'greenspire'
+TIEU2,Tilia europaea
+TIPL,Tilia platyphyllos
+TITO,Tilia tomentosa
+to,Toona sinensis
+TSCA,Tsuga canadensis
+TSCA_J,Tsuga canadensis 'Jeddeloh'
+u,Ulmus spp.
+ULAC,Ulmus laciniata
+ULAL,Ulmus alata
+ULAM,Ulmus americana
+ULAM_P,Ulmus americana 'Princeton'
+ULCAHO,Ulmus carpinifolia 'hollandic
+ULCRA,Ulmus crassifolia
+ULGL,Ulmus glabra
+ULGL_C,Ulmus glabra 'Camperdownii'
+ULGL_L,Ulmus glabra var. Lutescens
+ULGL_P,Ulmus glabra 'Pendula'
+ULPA,Ulmus parvifolia
+ULPIO,Ulmus x 'Pioneer'
+ULPR,Ulmus procera
+ULPU,Ulmus pumila
+ULRU,Ulmus rubra
+ULS,Elm
+ULTH,Ulmus thomasii
+UNO,Unknown
+VIOPU,Viburnum opulus
+VIRHY,Viburnum rhytidophyllum
+we,Weigela
+ZE,Zelkova
+ZESE,Zelkova serrata

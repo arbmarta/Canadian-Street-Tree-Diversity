@@ -1,0 +1,1277 @@
+﻿City,Code,Botanical Name
+Halifax,AB,Abies
+Halifax,ABBA,Abies balsamea
+Halifax,ABCO,Abies concolor
+Halifax,ABGR,Abies grandis
+Halifax,AC,Acer
+Halifax,ACBU,Acer buergerianum
+Halifax,ACCA,Acer Campestre
+Halifax,ACFR,Acer Freemanii
+Halifax,ACGI,Acer ginnala
+Halifax,ACGLAB,Acer glabrum
+Halifax,ACGR,Acer griseum
+Halifax,ACGRAN,Acer grandidentatum
+Halifax,ACJA,Acer japonicum
+Halifax,ACMAC,Acer Macrophyllum
+Halifax,acmi,Acer spp.
+Halifax,ACNE,Acer Negundo
+Halifax,ACNIG,Acer saccharum var. nigrum
+Halifax,ACPA,Acer palmatum
+Halifax,ACPA_B,Acer palmatum 'Bloodgood'
+Halifax,ACPE,Acer pensylvanicum
+Halifax,ACPL,Acer Platanoides
+Halifax,ACPLCO,Acer Platanoides 'columnare'
+Halifax,ACPLCR,Acer Platanoides 'Crimson kin
+Halifax,ACPLSC,Acer Platanoides 'schwedleri'
+Halifax,ACPS,Acer pseudoplatanus
+Halifax,ACPS_A,Acer pseudoplatanus var. Aureo variegatum
+Halifax,acre,Acer spp.
+Halifax,ACRU,Acer Rubrum
+Halifax,ACRUAR,Acer Rubrum 'armstrong'
+Halifax,acrumo,Acer rubrum
+Halifax,ACSA1,Acer saccharinum
+Halifax,ACSA2,Acer saccharum
+Halifax,ACSA2G,Acer saccharum 'green mountai
+Halifax,ACSPI,Acer spicatum
+Halifax,AECA,Aesculus x carnea
+Halifax,AEGL,Aesculus glabra
+Halifax,AEHI,Aesculus Hippocastanum
+Halifax,AIAL,Ailanthus altissima
+Halifax,AIKO,Abies koreana
+Halifax,ALRUB,Alnus Rubra
+Halifax,AM,Amelanchier
+Halifax,AMAR,Amelanchier arborea
+Halifax,AMCA,Amelanchier canadensis
+Halifax,AMUT,Amelanchier x Grandiflora 'Autumn'
+Halifax,AREL,Aralia elata
+Halifax,AREX,Araucaria excelsa
+Halifax,ARSP,Aralia spinosa
+Halifax,astr,Unknown
+Halifax,BE,Betula
+Halifax,BEAL,Betula alleghaniensis
+Halifax,BELE,Betula lenta
+Halifax,BENI,Betula nigra
+Halifax,BEPA,Betula papyrifera
+Halifax,BEPE,Betula pendula
+Halifax,BEPEGR,Betula pendula gracilis
+Halifax,BEPO,Betula populifolia
+Halifax,beth,Berberis thunbergii
+Halifax,BEUT_J,Betula utilis 'Jacquemontii'
+Halifax,BLAOAK,Quercus velutina
+Halifax,BOAK,Quercus bicolor
+Halifax,BUROAK,Quercus macrocarpa
+Halifax,CA1,Carya
+Halifax,caar,Carya spp.
+Halifax,CABE,Carpinus betulus
+Halifax,CABIG,Catalpa bignonioides
+Halifax,CACA,Carpinus caroliniana
+Halifax,CACO,Carya cordiformis
+Halifax,CADE,Castanea dentata
+Halifax,CAEQ,Casuarina equisetifolia
+Halifax,caja,Castanea crenata
+Halifax,CAOV,Carya ovata
+Halifax,CAOVA,Catalpa ovata
+Halifax,CAPAL,Carya pallida
+Halifax,CARAQU,Carya aquatica
+Halifax,CARCAR,Carpinus caroliniana
+Halifax,cariii,Carya illinoinensis
+Halifax,CARIll,Carya illinoinensis
+Halifax,CARLAE,crataegus laevigata
+Halifax,CASP,Catalpa speciosa
+Halifax,CATEX,Carya texana
+Halifax,CATO,Carya tomentosa
+Halifax,CEAT_G,Cedrus atlantica 'Glauca'
+Halifax,CEATGP,Cedrus atlantica 'Glauca Pendula'
+Halifax,CECA,Cercis canadensis
+Halifax,CEDE,Cedrus deodara
+Halifax,CEJA,Cercidiphyllum japonicum
+Halifax,CELI,Cedrus libani
+Halifax,CELI_P,Cedrus libani 'Pendula'
+Halifax,CELORB,Celastrus orbiculatus
+Halifax,CEOC,Celtis occidentalis
+Halifax,CHNO_P,Chamaecyparis nootkatensis 'Pendula'
+Halifax,CHOB_T,Chamaecyparis obtusa 'Tetragona'
+Halifax,CHPI,Chamaecyparis pisifera
+Halifax,CHPI_A,Chamaecyparis pisifera var. Aurea
+Halifax,CHPI_F,Chamaecyparis pisifera 'Filifera'
+Halifax,CHPI_P,Chamaecyparis pisifera 'Plumosa'
+Halifax,CHTH,Chamaecyparis thyoides
+Halifax,CHVI,Chionanthus virginicus
+Halifax,CLAKEN,Cladrastis kentukea
+Halifax,CO1,Cornus
+Halifax,COAL,Cornus Alternifolia
+Halifax,COCO1,Cotinus coggygria
+Halifax,COCO2,Corylus colurna
+Halifax,Code,Botanical Name
+Halifax,COFL,Cornus florida
+Halifax,COKO,Cornus kousa
+Halifax,COMA2,Corylus maxima var. Purpurea
+Halifax,CORCOR,Corylus Cornuta
+Halifax,CORHET,Corylus heterophylla 
+Halifax,CORSER,Cornus sericea
+Halifax,CR,Crataegus
+Halifax,crla,crataegus laevigata
+Halifax,CRMO_T,Crataegus mordensis 'Toba'
+Halifax,CRMO2,Crataegus mollis 'scheele'
+Halifax,CROX,Crataegus monogyna
+Halifax,CRPH,Crataegus phaenopyrum
+Halifax,crvi,Crataegus viridis
+Halifax,CUNO,Cupressus nootkatensis
+Halifax,CYDOB,Cydonia oblonga
+Halifax,dafr,Unknown
+Halifax,DAIN,Davidia involucrata
+Halifax,DIOVI,Diospyros virginiana
+Halifax,DIVIR,Diospyros virginiana
+Halifax,doal,Unknown
+Halifax,ELAN,Elaeagnus angustifolia
+Halifax,elco,Elaeagnus commutata
+Halifax,ERJAP,Eriobotrya japonica
+Halifax,EUALA,Euonymus alatus
+Halifax,EUJAP,Euonymus japonicus
+Halifax,FA,Fagus
+Halifax,FAGR,Fagus grandifolia
+Halifax,FASY,Fagus sylvatica
+Halifax,FASYP,Fagus sylvatica 'Purpurea'
+Halifax,FASYPE,Fagus sylvatica 'Pendula'
+Halifax,FASYPP,Fagus sylvatica 'Purpurea Pendula'
+Halifax,FMAPLE,Acer x freemanii
+Halifax,fo,Unknown
+Halifax,FR,Fraxinus
+Halifax,fral,Fraxinus latifolia
+Halifax,FRALAT,Fraxinus latifolia
+Halifax,FRAM,Fraxinus americana
+Halifax,FRAUH,Fraxinus uhdei
+Halifax,FREX,Fraxinus excelsior
+Halifax,FREX_P,Fraxinus excelsior 'Pendula'
+Halifax,FRNI,Fraxinus nigra
+Halifax,FRPE,Fraxinus pennsylvanica
+Halifax,FRPES,Fraxinus pennsylvanica 'summi
+Halifax,frqu,Fraxinus quadrangulata
+Halifax,GIBI,Ginkgo biloba
+Halifax,gibim,Ginkgo biloba
+Halifax,GLTR,Gleditsia triacanthos
+Halifax,GYDI,Gymnocladus dioicus
+Halifax,haca,Unknown
+Halifax,HAVI,Hamamelis virginiana
+Halifax,hemi,Unknown
+Halifax,HISY,Hibiscus syriacus
+Halifax,hop,Unknown
+Halifax,hy,Hydrangea spp.
+Halifax,HYPA_G,Hydrangea paniculata 'Grandiflora'
+Halifax,ILOP,Ilex opaca
+Halifax,ILSP,Ilex
+Halifax,JUCI,Juglans cinerea
+Halifax,JUNI,Juglans nigra
+Halifax,JURE,Juglans regia
+Halifax,JUVI,Juniperus virginiana
+Halifax,KOPA,Koelreuteria paniculata
+Halifax,LADE,Larix decidua
+Halifax,LALA,Larix laricina
+Halifax,LAWA_V,Laburnum x watereri 'Vossii'
+Halifax,LISP,Ligustrum
+Halifax,LIST,Liquidambar styraciflua
+Halifax,LITU,Liriodendron tulipifera
+Halifax,lo,Lonicera spp.
+Halifax,MA1,Magnolia
+Halifax,MA2,Malus
+Halifax,MAAC,Magnolia acuminata
+Halifax,MAAM9,Maackia amurensis
+Halifax,MABRO,Magnolia brooklynensis
+Halifax,MADE_E,Magnolia denudata 'Elizabeth'
+Halifax,MAHOPA,Malus 'Hopa'
+Halifax,MALBAC,Malus baccata
+Halifax,MALHUP,Malus hupehensis
+Halifax,malo,Malus spp.
+Halifax,MALOE,Magnolia x loebneri Leonard Messel
+Halifax,MAMAK,Malus 'Makamik'
+Halifax,mamo,Malus spp.
+Halifax,MAPR,Malus 'Profusion'
+Halifax,MASI,Magnolia stellata
+Halifax,MASO,magnolia soulangeana
+Halifax,MASO_G,magnolia soulangeana 'Galaxy'
+Halifax,MAST,Magnolia stellata
+Halifax,MATH,Malus 'Thunderchild'
+Halifax,MATR,Magnolia tripetala
+Halifax,MEGL,Metasequoia glyptostroboides
+Halifax,MEGL_G,Metasequoia glyptostroboides 'Goldrush'
+Halifax,MOAL,Morus alba
+Halifax,MOAL_P,Morus alba 'Pendula'
+Halifax,NYSY,Nyssa sylvatica
+Halifax,orme,Unknown
+Halifax,OSVI,Ostrya virginiana
+Halifax,PAGUTT,Palaquium gutta
+Halifax,PHAM,Phellodendron amurense
+Halifax,PHILEW,Philadelphus lewisii
+Halifax,PHYOP,Physocarpus opulifolius
+Halifax,PI1,Picea
+Halifax,PI2,Pinus
+Halifax,PIAB,Picea abies
+Halifax,PIBA,Pinus banksiana
+Halifax,PICE2,Pinus cembra
+Halifax,PIGL1,Picea glauca
+Halifax,pigl1a,Picea glauca
+Halifax,PIHE,Pinus heldreichii
+Halifax,PIMA,picea mariana
+Halifax,PIMUGO,Pinus mugo
+Halifax,PINI,Pinus nigra
+Halifax,PINRES,Pinus resinosa
+Halifax,PINRIG,Pinus rigida
+Halifax,PIPU,Picea pungens
+Halifax,PIPU_P,Picea pungens 'Pendula'
+Halifax,PIPUGL,Picea pungens 'glauca'
+Halifax,PIRU,Picea rubens
+Halifax,PIST,Pinus strobus
+Halifax,PIST_P,Pinus strobus 'Pendula'
+Halifax,PISY,Pinus sylvestris
+Halifax,PLAC,Platanus hybrida
+Halifax,PLOC,Platanus occidentalis
+Halifax,PO,Populus
+Halifax,POAL,Populus alba
+Halifax,POBA,Populus balsamifera
+Halifax,PODE,Populus deltoides
+Halifax,POGR,populus grandidentatata
+Halifax,PONI,Populus nigra
+Halifax,PONIIT,Populus nigra 'italica'
+Halifax,POTR1,Populus tremuloides
+Halifax,PR,Prunus
+Halifax,PRAM,Prunus americana
+Halifax,PRCER,Prunus cerasus
+Halifax,PRCI,Prunus x cistena
+Halifax,PRMA,Prunus maackii
+Halifax,PRPE1,Prunus pensylvanica
+Halifax,PRPE2,Prunus persica
+Halifax,PRPP,Prunus 'Pink Perfection'
+Halifax,PRSA,Prunus sargentii
+Halifax,PRSE1,Prunus serotina
+Halifax,PRSE2,Prunus serrulata
+Halifax,PRTR,Prunus triloba
+Halifax,PRVI,Prunus virginiana
+Halifax,PRVISH,"Prunus virginianna ""Shubert"""
+Halifax,PSME,Pseudotsuga menziesii
+Halifax,puma,Unknown
+Halifax,PYCA,Pyrus calleryana
+Halifax,PYCAAR,Pyruc calleryana 'Aristocrat'
+Halifax,PYCACH,Pyrus calleryana 'Chanticleer'
+Halifax,PYCO,Pyrus communis
+Halifax,pyre,Pyrus regelii
+Halifax,PYUS,Pyrus ussuriensis 'Prarie Gem'
+Halifax,QU,Quercus
+Halifax,QUAL,Quercus alba
+Halifax,qubi,Quercus bicolor
+Halifax,quco,Quercus coccinea
+Halifax,QUCOC,Quercus coccinea
+Halifax,QUEBI,Quercus bicolor
+Halifax,QUEL,Quercus ellipsoidalis
+Halifax,QUFAST,Quercus robur 'Fastigiata'
+Halifax,QUIM,Quercus imbricaria
+Halifax,QULY,Quercus lyrata
+Halifax,QUMA1,Quercus macrocarpa
+Halifax,quma2,Quercus macrocarpa
+Halifax,qumu,Quercus muehlenbergii
+Halifax,QUPA,Quercus palustris
+Halifax,QUPAL,Quercus palustris Pringreen
+Halifax,quph,Quercus phellos
+Halifax,QURO,Quercus robur
+Halifax,QURO_C,Quercus robur var. Concordia
+Halifax,QURU,Quercus rubra
+Halifax,QUSHU,Quercus shumardii
+Halifax,QUSTEL,Quercus stellata
+Halifax,QUVEL,Quercus velutina
+Halifax,rh,Rhus spp.
+Halifax,RHGL,Rhus glabra
+Halifax,RHLA,Rhus lanceolata
+Halifax,RHTY,Rhus hirta
+Halifax,ROHIS,Robinia hispida
+Halifax,ROPS,Robinia pseudoacacia
+Halifax,ROPSE,Robinia pseudoacacia
+Halifax,SA,Salix spp.
+Halifax,saal,Salix alba
+Halifax,SAALT,Salix alba 'Tristis'
+Halifax,SABA,Salix x sepulcralis Simonkai
+Halifax,SAMA,Salix matsudana
+Halifax,SAMRAC,Sambucus racemosa
+Halifax,SANI,Salix nigra
+Halifax,SCVE,Sciadopitys verticillata
+Halifax,so,Sorbus spp.
+Halifax,SOAM,Sorbus americana
+Halifax,SOAU,Sorbus aucuparia
+Halifax,SOTH,Sorbus thuringiaca 'Fastigiata'
+Halifax,SP,Spathodea alba
+Halifax,SPAL,Spathodea alba
+Halifax,SYRE,Syringa reticulata
+Halifax,SYVU,Syringa vulgaris
+Halifax,TA,Taxus
+Halifax,TADI,Taxodium distichum
+Halifax,tajap,Taxus cuspidata
+Halifax,THOC,Thuja occidentalis
+Halifax,THOC_S,Thuja occidentalis 'Smaragd'
+Halifax,TI,Tilia
+Halifax,TIAM,Tilia americana
+Halifax,TICO,Tilia cordata
+Halifax,TICOGR,Tilia cordata 'greenspire'
+Halifax,TIEU2,Tilia europaea
+Halifax,TIPL,Tilia platyphyllos
+Halifax,TITO,Tilia tomentosa
+Halifax,to,Toona sinensis
+Halifax,TSCA,Tsuga canadensis
+Halifax,TSCA_J,Tsuga canadensis 'Jeddeloh'
+Halifax,u,Ulmus spp.
+Halifax,ULAC,Ulmus laciniata
+Halifax,ULAL,Ulmus alata
+Halifax,ULAM,Ulmus americana
+Halifax,ULAM_P,Ulmus americana 'Princeton'
+Halifax,ULCAHO,Ulmus carpinifolia 'hollandic
+Halifax,ULCRA,Ulmus crassifolia
+Halifax,ULGL,Ulmus glabra
+Halifax,ULGL_C,Ulmus glabra 'Camperdownii'
+Halifax,ULGL_L,Ulmus glabra var. Lutescens
+Halifax,ULGL_P,Ulmus glabra 'Pendula'
+Halifax,ULPA,Ulmus parvifolia
+Halifax,ULPIO,Ulmus x 'Pioneer'
+Halifax,ULPR,Ulmus procera
+Halifax,ULPU,Ulmus pumila
+Halifax,ULRU,Ulmus rubra
+Halifax,ULS,Ulmus spp.
+Halifax,ULTH,Ulmus thomasii
+Halifax,UNO,Unknown
+Halifax,VIOPU,Viburnum opulus
+Halifax,VIRHY,Viburnum rhytidophyllum
+Halifax,we,Weigela
+Halifax,ZE,Zelkova
+Halifax,ZESE,Zelkova serrata
+Halifax,elm,Ulmus spp.
+Mississauga,ALEUOO,alnus glutinosa
+Mississauga,ALOOOO,Alnus spp.
+Mississauga,ALSPOO,Alnus incana
+Mississauga,AMFLST,Prunus glandulosa
+Mississauga,APCRFL,Malus spp.
+Mississauga,APCRPR,Malus x moerlandsii 'Profusion'
+Mississauga,APCRRO,Malus 'Royalty'
+Mississauga,APOOOO,Malus spp.
+Mississauga,ASBLOO,Fraxinus nigra
+Mississauga,ASBUOO,Fraxinus quadrangulata
+Mississauga,ASEUOO,Fraxinus excelsior
+Mississauga,ASGROO,Fraxinus pennsylvanica
+Mississauga,ASOOOO,Fraxinus spp.
+Mississauga,ASWHEM,Fraxinus americana 'Empire'
+Mississauga,ASWHOO,Fraxinus americana
+Mississauga,BAFAOO,Chamaecyparis spp.
+Mississauga,BAOOOO,Taxodium distichum
+Mississauga,BEAMOO,Fraxinus grandifolia
+Mississauga,BECOOO,Fagus sylvatica 'Copper'
+Mississauga,BEEUCU,Fagus sylvatica 'Asplenifolia'
+Mississauga,BEEUOO,Fagus sylvatica
+Mississauga,BEEUTR,Fagus sylvatica 'Tricolor'
+Mississauga,BEPYOO,Fagus sylvatica 'Fastigiata'
+Mississauga,BEWEOO,Fagus sylvatica 'Weeping'
+Mississauga,BIEUOO,Betula pendula
+Mississauga,BIRVOO,Betula nigra
+Mississauga,BISWOO,Betula lenta
+Mississauga,BIWHOO,Betula papyrifera
+Mississauga,BIYEOO,Betula alleghaniensis
+Mississauga,BTOOOO,Rhamnus cathartica
+Mississauga,BUOHOO,Aesculus glabra
+Mississauga,BUYELLO,Aesculus flava
+Mississauga,CACHOO,Catalpa ovata
+Mississauga,CAMOOO,Catalpa bignonioides 'nana'
+Mississauga,CANOOO,Catalpa speciosa
+Mississauga,CARYOO,Carya illinoinensis
+Mississauga,CASOOO,Catalpa bignonioides
+Mississauga,CEEAOO,Thuja occidentalis
+Mississauga,CEMIOO,Thuja spp.
+Mississauga,CHAMOO,Castanea dentata
+Mississauga,CHCHOO,Castanea mollissima
+Mississauga,CHHOOO,Aesculus hippocastanum
+Mississauga,CHHORU,Aesculus x carnea 'Briotii'
+Mississauga,CKAMOO,Phellodendron amurense
+Mississauga,COKEES,Gymnocladus dioicus 'Espresso'
+Mississauga,COKEOO,Gymnocladus dioicus
+Mississauga,CUOOOO,Magnolia acuminata
+Mississauga,CYBLOO,Prunus serotina
+Mississauga,CYCHOO,Prunus virginiana
+Mississauga,CYCHSC,Prunus virginiana 'Schubert'
+Mississauga,CYFLOO,Prunus serrulata
+Mississauga,CYJAKW,Prunus serrulata 'Kwanzan'
+Mississauga,CYOOOO,Prunus spp.
+Mississauga,CYPIOO,Prunus pensylvanica
+Mississauga,CYSAPU,Prunus x cistena
+Mississauga,DAOOOO,Metasequoia glyptostroboides
+Mississauga,DEADOO,Dead
+Mississauga,DOATLF,Cornus alternifolia
+Mississauga,DOFLOO,Cornus florida
+Mississauga,DOGROO,Cornus racemosa
+Mississauga,DOKOUS,Cornus kousa
+Mississauga,DOREOO,Cornus sericea
+Mississauga,DOWOOO,Cornus spp.
+Mississauga,DWOOOO,Aralia spinosa
+Mississauga,ELAMBR,Ulmus americana 'Brandon'
+Mississauga,ELAMJF,Ulmus americana 'Jefferson'
+Mississauga,ELAMOO,Ulmus americana
+Mississauga,ELAMPR,Ulmus americana 'Princeton'
+Mississauga,ELCHEC,Ulmus parvifolia
+Mississauga,ELCHOO,Ulmus pumila
+Mississauga,ELCXAC,Ulmus 'Accolade'
+Mississauga,ELCXCO,Ulmus 'Commendation'
+Mississauga,ELENOO,Ulmus procera
+Mississauga,ELNHOR,Ulmus 'New Horizon'
+Mississauga,ELOOOO,Ulmus spp.
+Mississauga,ELROOO,Ulmus thomasii
+Mississauga,ELSIOO,Ulmus pumila
+Mississauga,ELSIPR,Ulmus pumila 'Park Royal'
+Mississauga,ELSXHO,Ulmus 'Homestead'
+Mississauga,ELSXPI,Ulmus 'Pioneer'
+Mississauga,ELSXTR,Ulmus 'Morton Glossy'
+Mississauga,ELWIPR,Ulmus davidiana var. japonica 'Prospector'
+Mississauga,ELWYOO,Ulmus glabra
+Mississauga,EUBBOO,Euonymus alatus
+Mississauga,FIBAOO,Abies balsamea
+Mississauga,FIDOOO,Pseudotsuga menziesii
+Mississauga,FIFROO,Abies fraseri
+Mississauga,FISIOO,Abies alba
+Mississauga,FIWHOO,Abies concolor
+Mississauga,GIBIOO,Ginkgo biloba
+Mississauga,GORATR,Koelreuteria paniculata
+Mississauga,GUBLOO,Nyssa sylvatica
+Mississauga,GUSWOO,Liquidambar styraciflua
+Mississauga,HANAOO,Celtis occidentalis
+Mississauga,HBAMOO,Carpinus caroliniana
+Mississauga,HBEUFA,Ostrya carpinifolia
+Mississauga,HEEAOO,Tsuga canadensis
+Mississauga,HIBIOO,Carya cordiformis
+Mississauga,HIPIOO,Carya glabra
+Mississauga,HISBOO,Carya laciniosa
+Mississauga,HISHOO,Carya ovata
+Mississauga,HOAMOO,Carpinus betulus
+Mississauga,HPOOOO,Ptelea trifoliata
+Mississauga,HWOOOO,Crataegus spp.
+Mississauga,HZAMOO,Corylus americana
+Mississauga,HZEUOO,Corylus avellana
+Mississauga,HZTUOO,Corylus colurna
+Mississauga,HZWTOO,Hamamelis virginiana
+Mississauga,IROOOO,Ostrya virginiana
+Mississauga,JZEAOO,Juniperus virginiana
+Mississauga,JZOOOO,Juniperus spp.
+Mississauga,KAJAOO,Cercidiphyllum japonicum
+Mississauga,LAEUOO,Larix decidua
+Mississauga,LBOOOO,Laburnum anagyroides
+Mississauga,LIAXRE,Tilia americana 'Redmond'
+Mississauga,LIBAOO,Tilia americana
+Mississauga,LIGRGL,Tilia cordata 'Green Globe'
+Mississauga,LILIGL,Tilia cordata 'Glenleven'
+Mississauga,LILIGR,Tilia cordata 'Greenspire'
+Mississauga,LILIOO,Tilia cordata
+Mississauga,LIOOOO,Tilia spp.
+Mississauga,LLCOOO,Syringa vulgaris
+Mississauga,LLTRCH,Syringa x chinensis
+Mississauga,LLTRCS,Syringa reticulata 'China Snow'
+Mississauga,LLTRIS,Syringa reticulata 'Ivory Silk'
+Mississauga,LLTRJM,Syringa 'James McFarlane'
+Mississauga,LLTRMI,Syringa 'Minuet'
+Mississauga,LLTRMK,Syringa pubescens subspp. patula 'Miss Kim'
+Mississauga,LLTROO,Syringa reticulata
+Mississauga,LLTRPR,Syringa 'Preston'
+Mississauga,LLTTKO,Syringa meyeri
+Mississauga,LOBLOO,Robinia pseudoacacia
+Mississauga,LOBLRO,Robinia pseudoacacia 'Purple Robe'
+Mississauga,LOHOOO,Gleditsia triacanthos
+Mississauga,LOHORL,Gleditsia triacanthos 'Ruby Lace'
+Mississauga,LOHOSB,Gleditsia triacanthos 'Sunburst'
+Mississauga,LOHOSH,Gleditsia triacanthos 'Shademaster'
+Mississauga,LOHOSK,Gleditsia triacanthos 'Skyline'
+Mississauga,LOHOST,Gleditsia triacanthos 'Draves'
+Mississauga,MAAMOO,Acer ginnala
+Mississauga,MABIOO,Acer macrophyllum
+Mississauga,MABLOO,Acer nigrum
+Mississauga,MAHECA,Acer campestre
+Mississauga,MAJAOO,Acer palmatum
+Mississauga,MAMAOO,Acer negundo
+Mississauga,MANOCK,Acer platanoides 'Crimson King'
+Mississauga,MANOCL,Acer platanoides 'Cleveland'
+Mississauga,MANOCO,Acer platanoides 'columnar'
+Mississauga,MANODE,Acer platanoides 'Deborah'
+Mississauga,MANOEQ,Acer platanoides 'Emerald Queen'
+Mississauga,MANOGL,Acer platanoides 'Globe'
+Mississauga,MANOHA,Acer platanoides 'Harlequin'
+Mississauga,MANOOO,Acer platanoides
+Mississauga,MANORR,Acer platanoides 'Royal Red'
+Mississauga,MANOSC,Acer platanoides 'Schwedler'
+Mississauga,MANOSF,Acer platanoides 'Superform'
+Mississauga,MANSCK,Acer platanoides 'Sentry Crimson'
+Mississauga,MANXSU,Acer x Norwegian Sunset
+Mississauga,MANXTA,Acer tataricum
+Mississauga,MAOOOO,Acer spp.
+Mississauga,MAPAOO,Acer griseum
+Mississauga,MAREAR,Acer rubrum 'Armstrong'
+Mississauga,MARECO,Acer rubrum
+Mississauga,MAREKA,Acer rubrum 'Karpick'
+Mississauga,MAREOG,Acer rubrum 'October Glory'
+Mississauga,MAREOO,Acer rubrum
+Mississauga,MARERP,Acer rubrum 'Redpointe'
+Mississauga,MASIOO,Acer saccharinum
+Mississauga,MASISQ,Acer saccharinum 'Queen'
+Mississauga,MASUCO,Acer saccharum
+Mississauga,MASULE,Acer saccharum 'Legacy'
+Mississauga,MASUOO,Acer saccharum
+Mississauga,MASYOO,Acer pseudoplatanus
+Mississauga,MAXFAB,Acer x freemanii 'Autumn Blaze'
+Mississauga,MAXFCE,Acer x freemanii 'Celebration Red'
+Mississauga,MAXFMA,Acer x freemanii 'Marmo'
+Mississauga,MGSAOO,Magnolia x soulangiana
+Mississauga,MGSTOO,Magnolia stellata
+Mississauga,MOAMOO,Sorbus americana
+Mississauga,MOASPY,Sorbus aucuparia
+Mississauga,MOEUOO,Sorbus aucuparia
+Mississauga,MOTHFA,Sorbus hybrida
+Mississauga,MUMOOO,Morus spp.
+Mississauga,MUOOOO,Morus rubra
+Mississauga,MUREOO,Morus alba
+Mississauga,MUWHOO,Morus alba 'Pendula'
+Mississauga,MUWHUR,Viburnum lentago
+Mississauga,NAOOOO,Quercus velutina
+Mississauga,OABLOO,Quercus macrocarpa
+Mississauga,OABUOO,Quercus muehlenbergii
+Mississauga,OACHIN,Quercus montana
+Mississauga,OACHOO,Quercus robur 'Columnar'
+Mississauga,OAENCO,Quercus robur 'Fastigiata'
+Mississauga,OAENFA,Quercus robur
+Mississauga,OAENOO,Quercus spp.
+Mississauga,OAOOOO,Quercus palustris
+Mississauga,OAPIOO,Quercus rubra
+Mississauga,OAREOO,Quercus coccinea
+Mississauga,OASCOO,Quercus imbricaria
+Mississauga,OASHOO,Quercus shumardii
+Mississauga,OASUOO,Quercus alba
+Mississauga,OAWHOO,Quercus bicolor
+Mississauga,OAWHSW,Quercus bicolor
+Mississauga,OLRUOO,Elaeagnus angustifolia
+Mississauga,OROSOO,Maclura pomifera
+Mississauga,PAJAMS,Styphnolobium japonicum 'Millstone'
+Mississauga,PAJARE,Styphnolobium japonicum 'Regent'
+Mississauga,PATROO,Styphnolobium japonicum
+Mississauga,PEORBR,Pyrus calleryana 'Bradford'
+Mississauga,PEORCH,Pyrus calleryana 'Chanticleer'
+Mississauga,PEOROO,Pyrus spp.
+Mississauga,PEORRE,Pyrus calleryana 'Redspire'
+Mississauga,PIAUOO,Pinus nigra
+Mississauga,PIJAOO,Pinus banksiana
+Mississauga,PIMIOO,Pinus spp.
+Mississauga,PIMUOO,Pinus mugo
+Mississauga,PIPIOO,Pinus rigida
+Mississauga,PIREOO,Pinus resinosa
+Mississauga,PISCOO,Pinus sylvestris
+Mississauga,PIWHOO,Pinus strobus
+Mississauga,PLLOBL,Platanus x acerifolia 'Bloodgood'
+Mississauga,PLLOOO,Platanus x acerifolia
+Mississauga,PLSYOO,Platanus occidentalis
+Mississauga,PMCHNE,Prunus nigra
+Mississauga,PMPUOO,Prunus cerasifera
+Mississauga,POBAOO,Populus balsamifera
+Mississauga,POCAOO,Populus x canadensis
+Mississauga,POCOOO,Populus deltoides
+Mississauga,POLAOO,populus grandidentatata
+Mississauga,POLOOO,Populus nigra 'Italica'
+Mississauga,POMIOO,Populus spp.
+Mississauga,POTROO,Populus tremuloides
+Mississauga,POWHOO,Populus alba
+Mississauga,PPOOOO,Caragana arborescens
+Mississauga,PRHEOO,Shrub
+Mississauga,PWOOOO,Asimina triloba
+Mississauga,REOOOO,Cercis canadensis
+Mississauga,RUHAOO,Eucommia ulmoides
+Mississauga,SAOOOO,Sassafras albidum
+Mississauga,SICAOO,Halesia carolina
+Mississauga,SMOOOO,Cotinus coggygria
+Mississauga,SPCOOO,Picea pungens
+Mississauga,SPDWOO,Picea spp.
+Mississauga,SPNOOO,Picea abies
+Mississauga,SPOOOO,Picea spp.
+Mississauga,SPSEOO,Picea omorika
+Mississauga,SPWHOO,Picea glauca
+Mississauga,SROOOO,Elaeagnus commutata
+Mississauga,STUMPO,Stump
+Mississauga,SUSTOO,Rhus typhina
+Mississauga,SVOOOO,Amelanchier spp.
+Mississauga,TAOOOO,Larix laricina
+Mississauga,THOOOO,Ailanthus altissima
+Mississauga,TREEOO,Unknown
+Mississauga,TRFROO,Unknown
+Mississauga,TUCOLU,Liriodendron tulipifera 'Columnar'
+Mississauga,TUEMCI,Liriodendron tulipifera 'Emerald City'
+Mississauga,TUOOOO,Liriodendron tulipifera
+Mississauga,VICAHI,Viburnum opulus
+Mississauga,WABLOO,Juglans nigra
+Mississauga,WABUOO,Juglans cinerea
+Mississauga,WAENOO,Juglans regia
+Mississauga,WALIOO,Juglans microcarpa
+Mississauga,WAMIOO,Juglans spp.
+Mississauga,WIBEOO,Salix bebbiana
+Mississauga,WIBLOO,Salix nigra
+Mississauga,WICROO,Salix fragilis
+Mississauga,WIMATO,Salix matsudana 'Tortuosa'
+Mississauga,WIMIOO,Salix spp.
+Mississauga,WIPEOO,Salix amygdaloides
+Mississauga,WIPUOO,Salix discolor
+Mississauga,WISHOO,Salix lucida
+Mississauga,WIWEOO,Salix babylonica
+Mississauga,WIWHOO,Salix alba
+Mississauga,YECAOO,Taxus canadensis
+Mississauga,YECOOO,Taxus baccata
+Mississauga,YEJAOO,Taxus cuspidata
+Mississauga,YEOOOO,Taxus spp.
+Mississauga,YWOOOO,Cladrastis kentukea
+Mississauga,ZECOOO,Zelkova serrata
+Mississauga,ZESEGV,Zelkova serrata 'Green Vase'
+Mississauga,APCOOO,Malus spp.
+Mississauga,APCROO,Malus spp.
+Mississauga,APCRRS,Malus 'Red Splendor'
+Mississauga,ASGRSU,Fraxinus pennsylvanica 'Summit'
+Mississauga,ASREOO,Fraxinus pennsylvanica
+Mississauga,AZPOPS,Rhododendron 'Weston's Popsicle'
+Mississauga,BAWFOO,Callitropsis nootkatensis
+Mississauga,BEPUOO,Fagus sylvatica
+Mississauga,BIWEOO,Betula pendula
+Mississauga,BLNAOO,Carpinus caroliniana
+Mississauga,CKOOOO,Quercus suber
+Mississauga,ELWHOO,Ulmus americana
+Mississauga,GIOOOO,Ginkgo biloba
+Mississauga,GOOOOO,Laburnum anagyroides
+Mississauga,HWENOO,Crataegus monogyna
+Mississauga,LILIRE,Tilia americana 'Redmond'
+Mississauga,LLGLGL,Tilia cordata 'Glenleven'
+Mississauga,MANORE,Acer platanoides 'Royal Red'
+Mississauga,OAENCC,Quercus robur 'Fastigiata'
+Mississauga,OASWRE,Quercus shumardii
+Mississauga,SPCOBL,Picea pungens
+Mississauga,SPCOGR,Picea pungens
+Mississauga,WICOOO,Salix x fragilis
+Mississauga,ELSCOO,Ulmus 'Sapporo Autumn Gold'
+Moncton,AldEur,alnus glutinosa
+Moncton,AldSpe,Alnus incana
+Moncton,AM.Syc,Platanus Occidentalis
+Moncton,AmrCo,Phellodendron amurense
+Moncton,Amswtgum,Liquidambar styraciflua
+Moncton,AppCra,Malus spp.
+Moncton,Apple,Malus spp.
+Moncton,AshBla,Fraxinus nigra
+Moncton,AshEu,Fraxinus excelsior
+Moncton,AshGre,Fraxinus pennsylvanica
+Moncton,AshMou,Sorbus aucuparia
+Moncton,AshWhi,Fraxinus americana
+Moncton,Basswood,Tilia americana
+Moncton,BeeAme,Fagus grandifolia
+Moncton,BeeBlu,Carpinus caroliniana
+Moncton,BeeEur,Fagus sylvatica
+Moncton,BirGre,Betula populifolia
+Moncton,BirPap,Betula papyrifera
+Moncton,BirRiv,Betula nigra
+Moncton,BirWhi,Betula pendula and cv.
+Moncton,BirYel,Betula alleghaniensis
+Moncton,BucOhi,Aesculus glabra
+Moncton,BucYel,Aesculus Flava
+Moncton,Butternut,Juglans cinerea
+Moncton,CatNo,Catalpa speciosa
+Moncton,CatUmb,Catalpa bignonoides “Nana”
+Moncton,CatWes,Catalpa speciosa
+Moncton,CedRed,Juniperus virginiana
+Moncton,CedWhi,Thuja occidentalis
+Moncton,CheBi,Prunus avium 'Bing'
+Moncton,CheBla,Prunus serotina
+Moncton,CheCho,Prunus virginiana
+Moncton,CheFlo,Prunus spp.
+Moncton,CheMa,Prunus avium
+Moncton,ChePin,Prunus pensylvanica
+Moncton,CheSte,Prunus avium 'Stella'
+Moncton,CITYTREE,Unknown
+Moncton,CypFal,Chamaecyparis nootkatensis
+Moncton,DogRed,Cornus Florida
+Moncton,EasCot,Populus deltoides
+Moncton,ElmAco,Ulmus x 'morton'
+Moncton,ElmAme,Ulmus americana
+Moncton,ElmAmPrinc,Ulmus Americana 'Princeton'
+Moncton,ElmAmVF,Ulmus americana 'Valley Forge'
+Moncton,ElmCam,Ulmus glabra Pendula
+Moncton,ElmChi,Ulmus parvifolia
+Moncton,ElmEng,Ulmus procera
+Moncton,ElmSco,Ulmus glabra
+Moncton,ElmSib,Ulmus pumila
+Moncton,FirBal,Abies balsamea
+Moncton,FirDou,Pseudotsuga menziesii
+Moncton,FirWhi,Abies concolor
+Moncton,GinBib,Ginkgo biloba
+Moncton,GolTre,Laburnum spp.
+Moncton,GumBla,Nyssa Sylvatica
+Moncton,Hackberry,Celtis occidentalis
+Moncton,HawEng,Crataegus oxyacantha
+Moncton,HazTur,Corylus colurna
+Moncton,HemEas,Tsuga canadensis
+Moncton,Hibiscus,Hibiscus spp.
+Moncton,HicBit,Carya cordiformis
+Moncton,HicSha,Carya ovata
+Moncton,HorCom,Aesculus hippocastanum
+Moncton,HorEur,Carpinus betulus
+Moncton,HorEurFas,Carpinus betulus 'Fastigiata' 
+Moncton,HorEurFasi,Carpinus betulus 'Fastigiata' 
+Moncton,Ironwood,Ostrya virginiana
+Moncton,JapPa,styphnolobium japonicum
+Moncton,KatJap,Cercidiphyllum japonicum
+Moncton,KenCof,Gymnocladus dioicus
+Moncton,KenCof.Esp,Gymnocladus dioicus ‘Espresso’
+Moncton,Larch,Larix spp.
+Moncton,LilCom,Syringa vulgaris
+Moncton,LilJap,Syringa reticulata
+Moncton,LinCrim,Tilia x euchlora
+Moncton,LinLit,Tilia cordata
+Moncton,LocBla,Robinia pseudoacacia
+Moncton,LocHon,Gleditsia triacanthos
+Moncton,MagSau,Magnolia x soulangiana
+Moncton,MapAmu,Acer ginnala
+Moncton,MapBlkcol,Acer nigrum 'Green Column'
+Moncton,MapFr,Acer x freemanii
+Moncton,MapFrSg,Acer x freemanii 'Sienna Glen'
+Moncton,MapHed,Acer campestre
+Moncton,MapJap,Acer palmatum
+Moncton,MapMan,Acer negundo
+Moncton,MapNor,Acer platanoides
+Moncton,MapNorCri,Acer platanoides ’Crim. King
+Moncton,MapNorGlo,Acer platanoides ‘Globosum’
+Moncton,MapNorHar,Acer platanoides ‘Drummondii’
+Moncton,MapRed,Acer rubrum
+Moncton,MapSil,Acer saccharinum
+Moncton,MapSug,Acer saccharum
+Moncton,MapSyc,Acer pseudoplatanus
+Moncton,MapTat,Acer Tataricum
+Moncton,MulWhi,Morus alba
+Moncton,OakBla,Quercus velutina
+Moncton,OakBur,Quercus macrocarpa
+Moncton,OakChe,Quercus prinus
+Moncton,OakCrim,Quercus 'Crimschmidt'
+Moncton,OakEng,Quercus robur
+Moncton,OakPin,Quercus palustris
+Moncton,OakPyr,Quercus robur Fastigiata
+Moncton,OakRed,Quercus rubra
+Moncton,OakShi,Quercus imbricaria
+Moncton,OakSwa,Quercus bicolor
+Moncton,OakWhi,Quercus alba
+Moncton,OliRus,Eleagnus angustifolia
+Moncton,PeaCom,Pyrus communis
+Moncton,PinAus,Pinus nigra
+Moncton,PinEas,Pinus strobus
+Moncton,PinJac,Pinus banksiana
+Moncton,PinMug,Pinus mugo
+Moncton,PinRed,Pinus resinosa
+Moncton,PinSco,Pinus sylvestris
+Moncton,PlaLon,Platanus x acerifolia
+Moncton,PlatExcl,Platanus x acerifolia Excl.
+Moncton,PluCan,Prunus nigra
+Moncton,PluDom,Prunus domestica.
+Moncton,PopBal,Populus balsamifera
+Moncton,PopLar,populus grandidentata
+Moncton,PopLom,Populus nigra
+Moncton,PopTre,Populus tremuloides
+Moncton,PopWhi,Populus alba
+Moncton,PrivTree,Missing
+Moncton,RedDaw,Metasequoia glyptostroboides
+Moncton,RedEas,Cercis canadensis
+Moncton,SanPur,Prunus x cistena
+Moncton,Ser,Amelanchier canadensis
+Moncton,Shrub,Shrub
+Moncton,SprBla,Picea mariana
+Moncton,SprBlu,Picea pungens
+Moncton,SprNor,Picea abies
+Moncton,sprserb,Picea omorika
+Moncton,SprWhi,Picea glauca
+Moncton,Stump,Stump
+Moncton,SuSh,Rhus spp.
+Moncton,Vac,Missing
+Moncton,VacCancel,Missing
+Moncton,VacCon,Missing
+Moncton,VacCredit,Missing
+Moncton,ViOp,Viburnum spp.
+Moncton,WalBla,Juglans nigra
+Moncton,WalEng,Juglans regia
+Moncton,WiHa,Hamamelis virginiana
+Moncton,WilBla,Salix nigra
+Moncton,WilGol,Salix alba Tristis
+Moncton,WilPus,Salix caprea / discolor
+Moncton,YewJap,Taxus cuspidata
+Moncton,ZeSe,Zelkova serrata
+Ottawa,Fir Balsam,Abies balsamea
+Ottawa,Fir Colorado,Abies concolor
+Ottawa,Fir White,Abies concolor
+Ottawa,Fir Species,Abies spp.
+Ottawa,Maple Hedge,Acer campestre
+Ottawa,Maple Amur,Acer ginnala
+Ottawa,Maple Bigleaf,Acer macrophyllum
+Ottawa,Maple Manitoba,Acer negundo
+Ottawa,Maple Black,Acer nigrum
+Ottawa,Maple Japanese,Acer palmatum
+Ottawa,Maple Striped,Acer pensylvanicum
+Ottawa,Maple Norway,Acer platanoides
+Ottawa,Maple Red,Acer rubrum
+Ottawa,Maple Silver,Acer saccharinum
+Ottawa,Maple Sugar,Acer saccharum
+Ottawa,Maple Species,Acer spp.
+Ottawa,Maple Tatarian,Acer tataricum
+Ottawa,Maple Freeman,Acer x freemanii
+Ottawa,"Maple Upright ""Temple's""","Acer saccharum ""Temple's"""
+Ottawa,Buckeye Ohio,Aesculus glabra
+Ottawa,Horsechestnut Common,Aesculus hippocastanum
+Ottawa,Alder Species,Alnus spp.
+Ottawa,Serviceberry,Amelanchier spp.
+Ottawa,Birch Yellow,Betula alleghaniensis
+Ottawa,Birch Alaskan,Betula neoalaskana
+Ottawa,Birch River,Betula nigra
+Ottawa,Birch White,Betula papyrifera
+Ottawa,Birch Weeping,Betula pendula
+Ottawa,Birch Gray,Betula populifolia
+Ottawa,Birch Species,Betula spp.
+Ottawa,Birch Himalayan Whitebarked,Betula utilis Jacquemontii
+Ottawa,Beech Blue,Carpinus caroliniana
+Ottawa,Hickory Bitternut,Carya cordiformis
+Ottawa,Hickory Shagbark,Carya ovata
+Ottawa,Hickory Species,Carya spp.
+Ottawa,Catalpa northern,Catalpa speciosa
+Ottawa,Hackberry,Celtis occidentalis
+Ottawa,Katsura tree,Cercidiphyllum japonic
+Ottawa,Redbud Eastern,Cercis canadensis
+Ottawa,False cypress species,Chamaecyparis spp.
+Ottawa,Yellowwood,Cladrastis lutea
+Ottawa,Alternate leaved-dogwood,Cornus alternifolia
+Ottawa,Flowering Dogwood,Cornus florida
+Ottawa,Dogwood Red Osier,Cornus sericea
+Ottawa,Hazel American,Corylus americana
+Ottawa,Hazel Turkish,Corylus colurna
+Ottawa,Thornless Hawthorn,Crataegus crus-galli 'Inermis'
+Ottawa,Hawthorn,Crataegus spp.
+Ottawa,Olive Russian,Elaeagnus angustifolia
+Ottawa,Beech American,Fagus grandifolia
+Ottawa,Beech Species,Fagus spp.
+Ottawa,Beech European,Fagus sylvatica
+Ottawa,Ash White,Fraxinus americana
+Ottawa,Ash European,Fraxinus excelsior
+Ottawa,Ash Black,Fraxinus nigra
+Ottawa,Ash Green,Fraxinus pennsylvanica
+Ottawa,Ash Species,Fraxinus spp.
+Ottawa,Ginkgo,Ginkgo biloba
+Ottawa,Locust Honey,Gleditsia triacanthos
+Ottawa,Coffeetree Kentucky,Gymnocladus dioicus
+Ottawa,Butternut,Juglans cinerea
+Ottawa,Walnut Manchurian,Juglans mandshurica
+Ottawa,Walnut Black,Juglans nigra
+Ottawa,Juniper,Juniperus spp.
+Ottawa,Cedar Eastern Red,Juniperus virginiana
+Ottawa,Goldenchain tree,Laburnum x watereri
+Ottawa,Larch European,Larix decidua
+Ottawa,Larch Eastern,Larix laricina
+Ottawa,Tulip-tree,Liriodendron tulipifer
+Ottawa,Amur Maakia,Maakia amurensis
+Ottawa,Magnolia Species,Magnolia spp.
+Ottawa,Apple Species,Malus spp.
+Ottawa,Crabapple Species,Malus spp.
+Ottawa,Dawn Redwood,Metasequoia glyptostroboides
+Ottawa,Mulberry Species,Morus spp.
+Ottawa,Ironwod,Ostrya virginiana
+Ottawa,Other,Other - See Notes
+Ottawa,Amur Corktree,Phellodendron amurense
+Ottawa,Spruce Norway,Picea abies
+Ottawa,Spruce White,Picea glauca
+Ottawa,Spruce Black,Picea mariana
+Ottawa,Spruce Serbian,Picea omorika
+Ottawa,Spruce Blue/Colorado,Picea pungens
+Ottawa,Spruce Red,Picea rubens
+Ottawa,Spruce Species,Picea spp.
+Ottawa,Pine Jack,Pinus banksiana
+Ottawa,Pine Bristlecone,Pinus longaeva
+Ottawa,Pine White Western,Pinus monticola
+Ottawa,Pine Mugo,Pinus mugo
+Ottawa,Pine Austrian,Pinus nigra
+Ottawa,Pine Red,Pinus resinosa
+Ottawa,Pine Species,Pinus spp.
+Ottawa,Pine White,Pinus strobus
+Ottawa,Pine Scotch,Pinus sylvestris
+Ottawa,Sycamore American,Platanus occidentalis
+Ottawa,London Plane Tree,Platanus x acerifolia
+Ottawa,Poplar Silver/White,Populus alba
+Ottawa,Poplar Balsam,Populus balsamifera
+Ottawa,Cottonwood Eastern,Populus deltoides
+Ottawa,Aspen Largetooth,populus grandidentatata
+Ottawa,Poplar Lombardy,Populus nigra
+Ottawa,Poplar Species,Populus spp.
+Ottawa,Aspen European,Populus tremula
+Ottawa,Aspen Trembling,Populus tremuloides
+Ottawa,Almond Flowering,Prunus glandulosa
+Ottawa,Canadian Plum,Prunus nigra
+Ottawa,Cherry Pin,Prunus pensylvanica
+Ottawa,Cherry Black,Prunus serotina
+Ottawa,Cherry Species,Prunus spp.
+Ottawa,Cherry Choke,Prunus virginiana
+Ottawa,Cherry Choke Schubert,Prunus virginiana 'schubert'
+Ottawa,Cherry Purple Leaf,Prunus x cistena
+Ottawa,Fir Douglas,Pseudotsuga menziesii
+Ottawa,Hoptree Common,Ptelea trifoliata
+Ottawa,Ornamental Pear,Pyrus calleryana
+Ottawa,Pear Species,Pyrus spp.
+Ottawa,Oak White,Quercus alba
+Ottawa,Oak Swamp white,Quercus bicolor
+Ottawa,Oak Bur,Quercus macrocarpa
+Ottawa,Chinkapin Oak,Quercus muehlenbergii
+Ottawa,Oak Pin,Quercus palustris
+Ottawa,Oak English,Quercus robur
+Ottawa,Oak Red,Quercus rubra
+Ottawa,Oak Species,Quercus spp.
+Ottawa,Staghorn sumac,Rhus typhina
+Ottawa,Locust Black,Robinia pseudoacacia
+Ottawa,Willow Bebb,Salix bebbiana
+Ottawa,Willow Corkscrew,Salix matsudana
+Ottawa,Willow Black,Salix nigra
+Ottawa,Willow False Mountain,Salix pseudomonticola
+Ottawa,Willow Blue Arctic,Salix purpurea
+Ottawa,Willow Species,Salix spp.
+Ottawa,Willow Weeping,Salix alba 'Tristis'
+Ottawa,Elderberry,Sambucus
+Ottawa,See Notes,See Notes
+Ottawa,Mountain Ash American,Sorbus americana
+Ottawa,Mountain Ash European,Sorbus aucuparia
+Ottawa,Mountain Ash Showy,Sorbus decora
+Ottawa,Mountain Ash Species,Sorbus spp.
+Ottawa,Mountain Ash Oakleaf,Sorbus x thuringiaca
+Ottawa,Swedish Whitebeam,Sorubus Intermedia
+Ottawa,Lilac Japanese,Syringa reticulata
+Ottawa,Lilac Common,Syringa vulgaris
+Ottawa,Yew Canada,Taxus canadensis
+Ottawa,Yew species,Taxus spp.
+Ottawa,Cedar Eastern White,Thuja occidentalis
+Ottawa,Basswood,Tilia americana
+Ottawa,Linden Littleleaf,Tilia cordata
+Ottawa,Hemlock,Tsuga canadensis
+Ottawa,Elm American,Ulmus americana
+Ottawa,Elm Scotch,Ulmus glabra
+Ottawa,Elm Chinese,Ulmus parvifolia
+Ottawa,Elm Pioneer,Ulmus 'Pioneer'
+Ottawa,Elm Prospector,Ulmus 'Prospector'
+Ottawa,Elm Siberian,Ulmus pumila
+Ottawa,Elm Red,Ulmus rubra
+Ottawa,Elm Species,Ulmus spp.
+Ottawa,Elm Rock,Ulmus Thomasii
+Ottawa,Unknown Species,Unknown
+Ottawa,Various Species,Unknown
+Ottawa,Bayberry,Myrica pensylvanica
+Ottawa,Nannyberry,Viburnum lentago
+Ottawa,Winterberry,Ilex verticillata
+Ottawa,Accolade Elm,"Ulmus japonica wilsoniana ""Morton"""
+Ottawa,Homestead Elm,Ulmus x Homestead
+Ottawa,Hedge Start,Hedge Start
+Ottawa,Hedge End,Hedge End
+Ottawa,Chokeberry,Aronia melanocarpa
+Ottawa,Buttonbush,Cephalanthus occidentalis
+Ottawa,Grey Dogwood,Cornus racemosa
+Ottawa,Witch Hazel,Hamamelis virginiana
+Ottawa,Ninebark,Physocarpus opulifolius
+Ottawa,Fragrant sumac,Rhus aromatica
+Toronto,HLSU,Gleditsia triacanthos 'Sunburst'
+Toronto,BLP,Robinia pseudoacacia 'Purple robe'
+Toronto,MGS,Magnolia x soulangiana
+Toronto,MA,Acer tataricum subspp. ginnala
+Toronto,MB,Acer nigrum
+Toronto,MBC,Acer nigrum 'Green column'
+Toronto,MFC,Acer x freemanii 'Celebration'
+Toronto,MFSG,Acer x freemanii 'Sienna Glen'
+Toronto,MH,Acer campestre
+Toronto,MJ,Acer palmatum
+Toronto,MN,Acer platanoides
+Toronto,MNC,Acer platanoides 'columnare'
+Toronto,MND,Acer platanoides 'Deborah'
+Toronto,MNG,Acer platanoides 'Globosum'
+Toronto,MNH,Acer platanoides
+Toronto,MNS,Acer platanoides 'Schwedleri'
+Toronto,MNSU,Acer platanoides 'Superform'
+Toronto,MPB,Acer griseum
+Toronto,MRK,Acer rubrum 'Karipick'
+Toronto,MPS,Acer truncatum x platanoides 'Warrenred'
+Toronto,MSIP,Acer saccharinum 'pyramidale'
+Toronto,MST,Acer pensylvanicum
+Toronto,MS,Acer saccharum
+Toronto,MSL,Acer saccharum 'Legacy'
+Toronto,MT,Acer tataricum
+Toronto,MTA,Sorbus
+Toronto,MTAE,Sorbus aucuparia
+Toronto,MTAW,Sorbus aria
+Toronto,MU,Morus
+Toronto,MUW,Morus alba
+Toronto,O,Quercus
+Toronto,OB,Quercus velutina
+Toronto,OBU,Quercus macrocarpa
+Toronto,OE,Quercus robur
+Toronto,OP,Quercus palustris
+Toronto,OR,Quercus rubra
+Toronto,OW,Quercus alba
+Toronto,PAJ,Sophora japonica
+Toronto,PER,Pyrus
+Toronto,PERB,Pyrus calleryana 'Bradford'
+Toronto,P,Pinus
+Toronto,PA,Pinus nigra
+Toronto,PJ,Pinus banksiana
+Toronto,PS,Pinus sylvestris
+Toronto,PL,Platanus x acerifolia
+Toronto,SY,Platanus occidentalis
+Toronto,PLU,Prunus '(section plums)'
+Toronto,PO,Populus
+Toronto,POC,Populus x canadensis (Populus nigra x deltoides)
+Toronto,POCT,Populus deltoides
+Toronto,POL,Populus nigra 'italica'
+Toronto,POW,Populus alba 'pyramidalis'
+Toronto,RD,Metasequoia glyptostroboides
+Toronto,RB,Cercis canadensis
+Toronto,OLR,Elaeagnus angustifolia
+Toronto,SE,Amelanchier canadensis
+Toronto,S,Picea
+Toronto,SCB,Picea pungens
+Toronto,SN,Picea abies
+Toronto,SW,Picea glauca
+Toronto,TH,Allianthus altissima
+Toronto,WA,Juglans
+Toronto,WAB,Juglans nigra
+Toronto,W,Salix
+Toronto,WBL,Salix nigra
+Toronto,WGW,Salix x sepulcralis 'Chrysocoma'
+Toronto,YK,Cladrastis kentukea
+Toronto,Y,Taxus
+Toronto,MSHK,Acer truncatum 'Keithsform'
+Toronto,MSI,Acer saccharinum
+Toronto,MSIQ,Acer saccharinum 'Silver Queen'
+Toronto,MSGM,Acer saccharum 'Green Mountain'
+Toronto,MSY,Acer pseudoplatanus
+Toronto,MTAA,Sorbus americana
+Toronto,MTAOL,Sorbus thuringiaca 'Fastigiata'
+Toronto,MUR,Morus rubra
+Toronto,MUWW,Morus alba 'pendula'
+Toronto,OCH,Quercus muehlenbergii
+Toronto,OEP,Quercus robur 'Fastigiata'
+Toronto,OSW,Quercus bicolor
+Toronto,PEA,Prunus persica
+Toronto,PSI,Caragana arboresense
+Toronto,PERC,Pyrus calleryana 'chanticleer'
+Toronto,PR,Pinus resinosa
+Toronto,PW,Pinus strobus
+Toronto,PLB,Platanus x acerifolia 'Bloodgood'
+Toronto,POB,Populus balsamifera
+Toronto,POCH,Populus simonii
+Toronto,POLT,populus grandidentatata
+Toronto,POT,Populus tremuloides
+Toronto,POWS,Populus alba 'nivea'
+Toronto,RUB,Eucommia ulmoides
+Toronto,SAS,Sassafras albidum
+Toronto,SMK,Cotinus obovatus
+Toronto,SB,Picea mariana
+Toronto,SS,Picea omorica
+Toronto,SG,Liquidambar styraciflua
+Toronto,TT,Liriodendron tulipifera
+Toronto,BU,Juglans cinerea
+Toronto,BUX,Juglans cinereax x ? (hybrid)
+Toronto,WCS,Salix matsudana 'Tortuosa'
+Toronto,AL,Alnus
+Toronto,ALM,Prunus triloba
+Toronto,AP,Malus
+Toronto,APR,Prunus armeniaca
+Toronto,AB,Fraxinus nigra
+Toronto,ABL,Fraxinus quadrangulata
+Toronto,AGP,Fraxinus pennsylvanica 'Patmore'
+Toronto,AGM,Fraxinus pennsylvanica 'Marshall's seedless'
+Toronto,AWAA,Fraxinus americana 'Autumn applause'
+Toronto,BEE,Fagus sylvatica
+Toronto,BEEC,Fagus sylvatica 'Fastigiata '
+Toronto,BI,Betula
+Toronto,BIE,Betula pendula 'European white'
+Toronto,BIEY,Betula pendula 'Youngii'
+Toronto,BIJ,Betula utilis 'Jacquemonti'
+Toronto,BIW,Betula papyrifera
+Toronto,BB,Carpinus caroliniana
+Toronto,CAM,Catalpa bignonioides 'Nana'
+Toronto,CW,Thuja occidentalis
+Toronto,BUO,Aesculus glabra
+Toronto,CHEA,Castanea dentata
+Toronto,CHB,Prunus serotina
+Toronto,CHCS,Prunus virginiana 'Shubert'
+Toronto,CHPLS,Prunus x cistena 
+Toronto,COR,Phellodendron amurense
+Toronto,BCY,Taxodium distichum
+Toronto,EDA,Ulmus davidiana 'japonica 'Morton'
+Toronto,EC,Ulmus parvifolia
+Toronto,EE,Ulmus minor 'Atinia'
+Toronto,ER,Ulmus thomasii
+Toronto,ESI,Ulmus pumila
+Toronto,EAV,Ulmus americana 'Valley Forge'
+Toronto,EAPR,Ulmus americana 'Princeton'
+Toronto,FS,Abies alba
+Toronto,DF,Pseudotsuga menziesii
+Toronto,GC,Ginkgo biloba 'Columnar'
+Toronto,GR,Koelreuteria paniculata
+Toronto,H,Crataegus
+Toronto,HM,Crataegus laevigata x succulenta 'Mordon'
+Toronto,HAT,Corylus colurna
+Toronto,HI,Carya
+Toronto,HIBS,Carya laciniosa
+Toronto,HEUP,Carpinus betulus 'Fastigiata'
+Toronto,CER,Juniperus virginiana
+Toronto,KC,Gymnocladus dioicus
+Toronto,LIJ,Syringa reticulata
+Toronto,B,Tilia americana
+Toronto,BR,Tilia americana 'Redmond'
+Toronto,LLS,Tilia cordata 'halka'
+Toronto,LLGR,Tilia cordata 'Greenspire'
+Toronto,HLRL,Gleditsia triacanthos
+Toronto,YJ,Taxus cuspidata
+Toronto,Z,Zelkova
+Toronto,ZH,Zelkova serrata 'Halka'
+Toronto,MF,Acer x freemanii 
+Toronto,MP,Acer pictum 'mono'
+Toronto,MSH,Acer truncatum
+Toronto,HOB,Aesculus hippocastanum 'baumannii'
+Toronto,HOFM,Aesculus x carnea 'Fort Mcnair'
+Toronto,ALS,Alnus incana
+Toronto,SERH,Amelanchier x grandiflora 'Robin Hill'
+Toronto,SEC,Amelanchier canadensis 'x clump'
+Toronto,SES,Amelanchier laevis
+Toronto,PAW,Asimina triloba
+Toronto,HIM,Carya tomentosa
+Toronto,HIP,Carya glabra
+Toronto,HIS,Carya ovata
+Toronto,CHES,Castanea sativa
+Toronto,CAS,Catalpa bignonioides
+Toronto,FR,Chionanthus virginicus
+Toronto,HC,Crataegus crus-galli
+Toronto,BEF,Fagus sylvatica 'Asplenifolia'
+Toronto,BTG,Frangula frangula
+Toronto,KCE,Gymnocladus dioicus 'Espresso'
+Toronto,LAE,Larix decidua
+Toronto,LAJ,Larix kaempferi
+Toronto,TTC,Liriodendron tulipifera 'fastigiatum'
+Toronto,MGG,Magnolia x monrovia
+Toronto,MGK,Magnolia kobus
+Toronto,APW,Malus coronaria
+Toronto,APC,Malus sylvestris
+Toronto,APSI,Malus baccata
+Toronto,EM,Paulownia tomentosa
+Toronto,SR,Picea rubens
+Toronto,PP,Pinus rigida
+Toronto,PLE,Platanus x acerifolia 'Exclamation'
+Toronto,POH,Populus x hybrid
+Toronto,CHK,Prunus serrulata
+Toronto,CHJY,Prunus x yedoensis 'unknown hybrid'
+Toronto,CHSO,Prunus cerasus
+Toronto,CHSW,Prunus avium
+Toronto,PLUC,Prunus nigra
+Toronto,HOP,Ptelea trifoliata
+Toronto,OI,Quercus frainetto
+Toronto,ON,Quercus texana
+Toronto,OST,Quercus acutissima
+Toronto,OSC,Quercus coccinea
+Toronto,OSHI,Quercus imbricaria
+Toronto,OSH,Quercus shumardii
+Toronto,OWI,Quercus phellos
+Toronto,WC,Salix fragilis
+Toronto,WPL,Salix amygdaloides
+Toronto,WW,alix x sepulcralis
+Toronto,MTAS,Sorbus decora
+Toronto,CR,Thuja plicata
+Toronto,LS,Tilia tomentosa
+Toronto,LBL,Tilia platyphyllos
+Toronto,EPH,Ulmus pumila x (pumila x minor) 'Homestead'
+Toronto,EHYB,Ulmus x
+Toronto,CYPN,Xanthocyparis nootkatensis 'Pendula'
+Toronto,ZJ,Zelkova serrata
+Toronto,ZJVG,Zelkova serrata 'Village Green'
+Toronto,EWC,Ulmus glabra 'Camperdownii'
+Toronto,HAA,Corylus americana
+Toronto,DSW,Aralia spinosa
+Toronto,D,Cornus
+Toronto,DFL,Cornus florida
+Toronto,STW,euonymus altus
+Toronto,ELC,Sambucus canadensis
+Toronto,MMO,Acer spicatum
+Toronto,SUS,Rhus Typhina
+Toronto,WL,Salix pentandra
+Toronto,WP,Salix Discolor
+Toronto,WH,Hamamelis virginiana
+Toronto,WAE,Juglans regia
+Toronto,HLSK,Gleditsia triacanthos
+Toronto,BL,Robinia pseudoacacia
+Toronto,MGC,Magnolia acuminata
+Toronto,M,Acer
+Toronto,MFA,Acer x freemanii 'Armstrong'
+Toronto,MFAB,Acer x freemanii 'Autumn Blaze'
+Toronto,MFM,Acer x freemanii 'Marmo'
+Toronto,MM,Acer negundo
+Toronto,MNAB,Acer platanoides 'autumn blaze'
+Toronto,MNCK,Acer platanoides 'Crimson King'
+Toronto,MNEQ,Acer platanoides 'Emerald Queen'
+Toronto,MNRR,Acer platanoides 'Royal Red'
+Toronto,MNSS,Acer platanoides 'Summershade'
+Toronto,MR,Acer rubrum
+Toronto,ALE,Alnus glutinosa
+Toronto,MAA,Maackia amurensis
+Toronto,APSA,Malus sargentii
+Toronto,A,Fraxinus
+Toronto,ABGF,Fraxinus nigra 'Gold Fall'
+Toronto,AE,Fraxinus excelsior
+Toronto,AG,Fraxinus pennsylvanica
+Toronto,AGS,Fraxinus pennsylvanica 'Summit'
+Toronto,AW,Fraxinus americana
+Toronto,AWAP,Fraxinus americana 'Autumn purple'
+Toronto,BE,Fagus
+Toronto,BEA,Fagus grandifolia
+Toronto,BEC,Fagus sylvatica 'Cupria'
+Toronto,BEP,Fagus sylvatica 'Purpurea'
+Toronto,BIB,Betula lenta
+Toronto,BIEC,Betula pendula 'Gracilis'
+Toronto,BIG,Betula populifolia
+Toronto,BIR,Betula nigra
+Toronto,BIRH,Betula nigra 'Heritage'
+Toronto,BIY,Betula alleghaniensis
+Toronto,BTE,Rhamnus cathartica
+Toronto,CAN,Catalpa speciosa
+Toronto,C,Thuja
+Toronto,HO,Aesculus hippocastanum
+Toronto,HORR,Aesculus x carnea 'Briotii'
+Toronto,BUY,Aesculus flava
+Toronto,CH,Prunus '(section cherries)'
+Toronto,CHC,Prunus virginiana
+Toronto,CHJ,Prunus serrulata
+Toronto,CHP,Prunus pensylvanica
+Toronto,CHS,Prunus sargentii
+Toronto,CHW,Prunus subhirtella 'pendula 'Pink Cloud'
+Toronto,FC,Chamaecyparis pisifera
+Toronto,DCC,Cornus mas
+Toronto,E,Ulmus
+Toronto,EAL,Ulmus americana 'American Liberty'
+Toronto,ED,Ulmus davidiana 'japonica'
+Toronto,EAP,Ulmus x hollandica
+Toronto,EW,Ulmus glabra
+Toronto,ESL,Ulmus rubra
+Toronto,EA,Ulmus americana
+Toronto,EAD,Ulmus americana 'Delaware'
+Toronto,F,Abies
+Toronto,FB,Abies balsamaea
+Toronto,FW,Abies concolor
+Toronto,G,Ginkgo biloba
+Toronto,GAG,Ginkgo biloba 'Autumn Gold'
+Toronto,GOC,Laburnum x watereri (Laburnum alpinum x anagyroides)
+Toronto,BGM,Nyssa sylvatica
+Toronto,HB,Celtis occidentalis
+Toronto,HGWK,Crataegus viridis 'Winter King'
+Toronto,HA,Corylus
+Toronto,HE,Tsuga canadensis
+Toronto,HIB,Carya cordiformis
+Toronto,HEU,Carpinus betulus
+Toronto,IW,Ostrya virginiana
+Toronto,JUN,Juniperus
+Toronto,KJ,Cercidiphyllum japonicum
+Toronto,LA,Larix laricina
+Toronto,LI,Syringa
+Toronto,L,Tilia
+Toronto,BC,Tilia americana
+Toronto,LC,Tilia x euchlora
+Toronto,LL,Tilia cordata
+Toronto,LLGL,Tilia cordata 'Glenleven'
+Toronto,HL,Gleditsia triacanthos
+Toronto,HLSM,Gleditsia triacanthos
