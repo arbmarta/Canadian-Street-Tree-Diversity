@@ -1,5 +1,3 @@
-# This code processes the street tree inventories into one merged dataframe, cleans the botanical names, and adds species, genus, and family
-
 import os
 import pandas as pd
 import numpy as np
@@ -96,6 +94,8 @@ if additional_data_frames:
 else:
     print("⚠️ No additional cities loaded from cities_without_species_codes.")
 
+print(f"🔢 Number of rows in master_df: {len(master_df):,}")
+
 # endregion
 
 ## ------------------------------------- REMOVE ROWS WITH MISSING DAUIDs AND CTUIDs ------------------------------------
@@ -161,7 +161,7 @@ print(f"📉 Number of rows where CTUID is still missing after filling: {num_mis
 
 # Count the number of unique botanical names
 num_unique_botanical = master_df['Botanical Name'].nunique()
-print(f"Number of unique botanical names before species cleaning: {num_unique_botanical}")
+print(f"\nNumber of unique botanical names before species cleaning: {num_unique_botanical}")
 
 # Lowercase and strip
 master_df['Botanical Name'] = master_df['Botanical Name'].str.lower().str.strip()
@@ -185,20 +185,32 @@ master_df['Botanical Name'] = master_df['Botanical Name'].replace('', pd.NA).fil
 
 # Remove any non-living trees
 print("🪵 Removing non-living tree records...")
+before_removal = master_df.shape[0]
 master_df = master_df[~master_df["Botanical Name"].isin(["dead", "stump", "stump spp.", "stump for", "shrub",
                                                          "shrubs", "vine", "vines", "hedge", "wildlife snag",
                                                          "vacant"])]
+after_removal = master_df.shape[0]
+
+# Calculate and report
+removed = before_removal - after_removal
+print(f"🗑️ Non-living tree records removed: {removed:,}")
 
 # Count the number of unique botanical names
 num_unique_botanical = master_df['Botanical Name'].nunique()
 print(f"✅ Unique botanical names (post-cleaning): {num_unique_botanical:,}\n")
+print(f"🔢 Number of rows in master_df: {len(master_df):,}")
+
+# Print the number of trees per city
+city_counts = master_df['City'].value_counts().sort_index()
+print("🏙️ Number of living street trees per city, including those missing botanical names:")
+print(city_counts.to_string())
 
 #endregion
 
 ## ------------------------------------------- ADD SPECIES AND GENUS COLUMNS -------------------------------------------
 #region
 
-print("🌱 Extracting species and genus...")
+print("\n🌱 Extracting species and genus...")
 
 # Simplify to the species level (i.e., remove cultivar names)
 def simplify_name(name):
@@ -266,15 +278,18 @@ else:
 # Load reviewed species list
 reviewed_species = set(accepted_nomenclature_df['Species'].dropna().str.lower().unique())
 
+# Address the ï issues in A. platanoides
+master_df['Species'] = master_df['Species'].str.replace('Acer platanoïdes', 'Acer platanoides', regex=False)
+
 # Identify species not in the reviewed list
 missing_species = sorted(set(master_df['Species'].dropna().unique()) - reviewed_species)
 
 if missing_species:
-    print("\n🚨 Species in master_df but not found in reviewed list:")
+    print("🚨 Species in master_df but not found in reviewed list:")
     for species in missing_species:
         print(species)
 else:
-    print("\n✅ All species are present in the reviewed dataset.")
+    print("✅ All species are present in the reviewed dataset.")
 
 #endregion
 
@@ -288,7 +303,7 @@ families_df = pd.read_csv('Non-Inventory Datasets/Families.csv')
 master_df = master_df.merge(families_df[['Genus', 'Family']], on='Genus', how='left')
 
 # Print genera with missing families
-print("⚠️ Genera with missing families (by city):")
+print("\n⚠️ Genera with missing families (by city):")
 missing_families = (
     master_df[
         master_df['Family'].isna() &
@@ -316,6 +331,7 @@ missing_unknown_counts = (
     .unstack(fill_value=0)
 ).reindex(all_cities, fill_value=0).sort_index()
 
+print("\n📊 Number of trees with missing or unknown species per city:")
 print(missing_unknown_counts)
 
 # Drop the missing and unknown species from the master_df
@@ -354,7 +370,7 @@ print(f"🌳 Unique families: {num_families:,}")
 print(f"🔢 Number of rows in master_df: {len(master_df):,}")
 
 # Save the result
-print("\n💾 Saving final master DataFrame to 'Master DF.csv'...")
+print("\n💾 Saving final master DataFrame to 'Master df.csv'...")
 master_df.to_csv('Master df.csv', index=False)
 print("✅ File saved.\n")
 
