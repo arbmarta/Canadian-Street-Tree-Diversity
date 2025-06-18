@@ -1,0 +1,33 @@
+﻿City,Province,Ecozone,City Size,Downtown Core,Longitude,Population,Population Density (sq. km),Land Area,Total Street Tree Population
+Ajax,Ontario,Mixedwood Plain,Small,No,79.0204,126666,1900.6,66.645,36474
+Burlington,Ontario,Mixedwood Plain,Medium,Yes,79.799,186948,1004.4,186.129,61794
+Calgary,Alberta,Prairie,Large,Yes,114.0719,1306784,1592.4,820.638,318020
+Edmonton,Alberta,Prairie,Large,Yes,113.4938,1010899,1320.4,765.601,215565
+Fredericton,New Brunswick,Atlantic Maritime,Small,Yes,66.6431,63116,471.3,133.919,19032
+Guelph,Ontario,Mixedwood Plain,Small,Yes,80.2482,143740,1664.1,86.377,44207
+Halifax,Nova Scotia,Atlantic Maritime,Medium,Yes,63.5752,439819,80.3,5477.198,56590
+Kelowna,British Columbia,Montane Cordillera,Small,Yes,119.496,144576,682.4,211.864,15212
+Kingston,Ontario,Mixedwood Plain,Small,Yes,76.486,132485,293.4,451.551,25323
+Kitchener,Ontario,Mixedwood Plain,Medium,Yes,80.4925,256885,1877.6,136.816,52732
+Lethbridge,Alberta,Prairie,Small,Yes,112.8418,98406,812.5,121.115,21424
+Longueuil,Quebec,Mixedwood Plain,Medium,Yes,73.5181,254483,2198.2,115.769,51882
+Maple Ridge,British Columbia,Pacific Maritime,Small,No,122.5984,90990,339.7,267.854,13159
+Mississauga,Ontario,Mixedwood Plain,Large,Yes,79.6441,717961,2452.5,292.747,232764
+Moncton,New Brunswick,Atlantic Maritime,Small,Yes,64.7782,79470,564.9,140.68,10526
+Montreal,Quebec,Mixedwood Plain,Large,No,73.5673,1762949,4833.5,364.735,232169
+New Westminster,British Columbia,Pacific Maritime,Small,No,122.9109,78916,5052.4,15.62,9788
+Niagara Falls,Ontario,Mixedwood Plain,Small,No,79.0849,94415,449.1,210.232,23593
+Ottawa,Ontario,Mixedwood Plain,Large,Yes,75.6972,1017449,364.9,2788.295,239345
+Peterborough,Ontario,Mixedwood Plain,Small,Yes,78.3197,83651,1291.8,64.755,26595
+Quebec City,Quebec,Mixedwood Plain,Large,No,71.2082,549459,1214.8,452.304,116632
+Regina,Saskatchewan,Prairie,Medium,Yes,104.6189,226404,1266.2,178.806,83737
+St. Catharines,Ontario,Mixedwood Plain,Small,No,79.2469,136803,1422.1,96.198,42155
+Strathcona County,Alberta,Prairie,Small,No,113.317,99225,84.8,1170.106,18214
+Toronto,Ontario,Mixedwood Plain,Large,Yes,79.347,2794356,4427.8,631.094,652477
+Vancouver,British Columbia,Pacific Maritime,Large,Yes,123.1207,662248,5749.9,115.176,147205
+Victoria,British Columbia,Pacific Maritime,Small,Yes,123.3656,91867,4722.3,19.454,20019
+Waterloo,Ontario,Mixedwood Plain,Small,Yes,80.5204,121436,1895.8,64.055,31315
+Welland,Ontario,Mixedwood Plain,Small,No,79.2483,55750,686.9,81.162,13391
+Whitby,Ontario,Mixedwood Plain,Small,No,78.9429,138501,944.1,146.702,38740
+Windsor,Ontario,Mixedwood Plain,Medium,Yes,83.0364,229660,1572.8,146.02,67984
+Winnipeg,Manitoba,Prairie,Large,Yes,97.1384,749607,1623.3,461.78,198261
